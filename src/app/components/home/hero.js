@@ -31,12 +31,13 @@ export default function Hero() {
               multidimensional perspective to his ventures.
             </p>
             <div className="flex justify-center">
+            <a href='https://docs.google.com/forms/d/e/1FAIpQLSekoxlGLK7bjxfu8-8kCs3gUTDg0rd4joEDYiUlnRAkLgpslg/viewform?usp=header'>
+
               <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                Button
+                Book Checkups
               </button>
-              <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
-                Button
-              </button>
+              </a>
+           
             </div>
           </div>
         </div>
